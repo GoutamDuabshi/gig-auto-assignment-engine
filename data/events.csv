@@ -1,0 +1,4 @@
+event_id,event_name,lat,lon,event_time,total_slots,filled_slots,criteria_based,criteria_json
+E001,Corporate Stall,12.9750,77.5990,2025-07-12 09:00:00,50,48,0,"{}"
+E002,Product Launch,12.9450,77.6100,2025-07-12 11:00:00,10,2,1,"{\"min_experience\":0.7, \"skill_required\": 0.6 }"
+E003,Mall Promo,12.9700,77.6200,2025-07-12 18:00:00,30,29,0,"{}"
